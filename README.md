@@ -10,9 +10,11 @@ AppleScriptを使って，システム環境設定を自動操作する方法で
 
 ## Install
 
+[Download latest release](https://github.com/nasubifujii/alfred_change_keyboard/releases/latest)
+から
+`change-keyboard.alfredworkflow`をダウンロードして開き，Alfred WorkflowにImportしてください．
 
-
-## About
+## How to use
 
 ### USキー配列へ切り替える
 
@@ -26,8 +28,10 @@ AppleScriptを使って，システム環境設定を自動操作する方法で
 
 下記サイトを参考にさせていただきました．
 
-https://webrandum.net/alfred-karabiner-elements-change-profile/
+[AlfredでKarabiner-Elementsのプロファイルを切り替えるWorkflowの作り方](https://webrandum.net/alfred-karabiner-elements-change-profile/)
 
-https://kyogom.com/tech/ansi-to-jis/
+[US配列とJIS配列のキーボードの設定を瞬時に変える (Mac)](https://kyogom.com/tech/ansi-to-jis/)
 
-https://material.io/resources/icons/?style=baseline
+Workflowのアイコンは，
+[MATERIAL DESIGN ICONS](https://material.io/resources/icons/?style=baseline)
+を使用させていただきました．
