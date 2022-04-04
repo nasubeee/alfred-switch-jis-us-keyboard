@@ -12,7 +12,11 @@ AppleScriptを使って，システム環境設定を自動操作する方法で
 
 [Download latest release](https://github.com/nasubifujii/alfred_change_keyboard/releases/latest)
 から
-`change-keyboard.alfredworkflow`をダウンロードして開き，Alfred WorkflowにImportしてください．
+
+- OS言語設定　日本語環境用: `TBA`
+- OS言語設定 英語環境用: `change-keyboard-layout-ansi-jis-for-en.alfredworkflow`
+
+をダウンロードして開き，Alfred WorkflowにImportしてください．
 
 ## How to use
 
@@ -32,6 +36,10 @@ AppleScriptを使って，システム環境設定を自動操作する方法で
 
 [US配列とJIS配列のキーボードの設定を瞬時に変える (Mac)](https://kyogom.com/tech/ansi-to-jis/)
 
+[Complete list of AppleScript key codes](https://eastmanreference.com/complete-list-of-applescript-key-codes)
+
+[AppleScriptで操作したいアプリの要素を調べる方法](https://www.tantan-biyori.info/blog/2019/05/app-element.html)
+
 Workflowのアイコンは，
-[MATERIAL DESIGN ICONS](https://material.io/resources/icons/?style=baseline)
+[MATERIAL DESIGN ICONS](https://fonts.google.com/icons?selected=Material+Icons&icon.query=Keyboard)
 を使用させていただきました．
