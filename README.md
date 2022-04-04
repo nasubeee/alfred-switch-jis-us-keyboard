@@ -11,7 +11,7 @@ AppleScriptを使って，システム環境設定を自動操作する方法で
 ## Install
 
 ## masOS Monterey
-[Download latest release](https://github.com/nasubeee/alfred-switch-jis-us-keyboard/tag/2.0.0)
+[Download latest release](https://github.com/nasubeee/alfred-switch-jis-us-keyboard/releases/tag/2.0.0)
 から
 
 - OS言語設定　日本語環境用: `TBA`
@@ -21,7 +21,7 @@ AppleScriptを使って，システム環境設定を自動操作する方法で
 
 ## masOS Big Sur以前
 
-[Download Version 1.0.0](https://github.com/nasubeee/alfred-switch-jis-us-keyboard/tag/1.0.0)
+[Download Version 1.0.0](https://github.com/nasubeee/alfred-switch-jis-us-keyboard/releases/tag/1.0.0)
 から`change-keyboard.alfredworkflow`をダウンロードして開き，Alfred WorkflowにImportしてください．
 
 
